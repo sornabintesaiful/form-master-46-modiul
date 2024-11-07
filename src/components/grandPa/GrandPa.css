@@ -1,0 +1,12 @@
+.flexitem{
+  display: flex;
+}
+
+.grandpa div{
+  border: 2px solid tan;
+  margin: 20px;
+  padding: 15px;
+  border-radius: 20px;
+};
+
+
